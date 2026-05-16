@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 MY name is  Manish kumawat
 MY sister name  is Neha kumawat
 MY brother name is Aakash kumawat 
 MY mother name is Kiran devi
 MY father name is Gopal kumawat
+=======
+My name is  Manish kumawat
+My sister name  is Neha kumawat
+My brother name is Aakash kumawat 
+My mother name is Kiran devi
+My father name is Gopal kumawat
+>>>>>>> 55266ecf46baa27e869ae09637e23817473956bd
